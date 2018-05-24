@@ -1,4 +1,4 @@
-# Gradle/Travis CI Example
+# Gradle/Travis CI Example Test
 
 Shows a working setup for travis integration to extract project dependencies
 
